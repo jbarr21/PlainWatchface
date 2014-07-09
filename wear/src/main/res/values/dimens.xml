@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- aeon nut -->
+    <dimen name="tick_width">2.666dp</dimen><!-- standard tick, not 90 degree ticks -->
+    <dimen name="tick_length">10.666dp</dimen>
+    <dimen name="tick_margin">2.666dp</dimen><!-- 90 degree ticks -->
+    <dimen name="logo_margin_top">24dp</dimen>
+    <dimen name="logo_text_size">14dp</dimen>
+    <dimen name="date_box_size">24dp</dimen>
+    <dimen name="date_text_size">16dp</dimen>
+    <dimen name="date_margin_bottom">16dp</dimen>
+
+    <!-- nexus -->
+    <dimen name="ring_outer_margin">8dp</dimen>
+    <dimen name="ring_thickness">9dp</dimen>
+    <dimen name="hand_margin_minute">24dp</dimen>
+    <dimen name="hand_margin_hour">48dp</dimen>
+    <dimen name="hand_radius_center">5.333dp</dimen>
+    <dimen name="hand_radius_top">2.666dp</dimen>
+    <dimen name="hand_shadow_radius">4dp</dimen>
+    <dimen name="hand_shadow_offset">2dp</dimen>
+</resources>

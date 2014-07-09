@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nexus_blue">#3069ee</color>
+    <color name="nexus_red">#d50f1c</color>
+    <color name="nexus_green">#009927</color>
+    <color name="nexus_yellow">#eeb311</color>
+    <color name="nexus_hand_shadow_color">@android:color/black</color>
+</resources>
